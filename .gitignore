@@ -31,3 +31,5 @@ e2e/*.map
 # Project
 server/**/*.js
 server/**/*.js.map
+!server/showtime.js
+!server/unblocker.js
